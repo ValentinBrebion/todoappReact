@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+## 📝 React To-Do List App
+A simple and clean To-Do List application built with React. Easily manage your daily tasks by adding, marking, and removing items from your list.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Responsive and minimalist design
+
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+- CSS
 
 ## Available Scripts
 
