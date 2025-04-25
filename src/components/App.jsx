@@ -145,7 +145,7 @@ const App = () => {
       {/* Caché si aucun élément complété restant */}
       {list.some(todo => todo.completed) && (
         <button className="clear-completed" onClick={clearCompleted}>
-          Effacer les complétés
+          Effacer les complétés {editing}
         </button>
       )}
     </footer>
