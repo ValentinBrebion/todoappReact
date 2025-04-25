@@ -6,7 +6,6 @@ const TodoItem = (props) => {
         name,
         completed,
         editing,
-        onEdit,
         onChange,
         onComplete,
         onDestroy
